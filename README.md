@@ -1,1 +1,1 @@
-# RESTFul-API-Project
+# Blog Application
